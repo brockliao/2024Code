@@ -1,3 +1,3 @@
 # 2024Code
 
-## 代码目录仓库  开始管理
+## vue3 husky lint-staged demo 规范 git 提交信息
