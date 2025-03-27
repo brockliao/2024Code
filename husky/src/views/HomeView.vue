@@ -4,6 +4,6 @@
 <template>
   <div class="bg">
     <h1>Home</h1>
-    <p>Welcome to your new Vue project!</p>
+    <p>Welcome to your new Vue project!  222</p>
   </div>
 </template>
